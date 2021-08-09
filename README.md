@@ -1,5 +1,5 @@
 # CompMetodosComputacionales
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/LabMetodosComputacionales/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/CompMetodosComputacionales/main)
 
 Material del curso Complementaria de Métodos Computacionales 1 de Uniandes 2021 20
 
