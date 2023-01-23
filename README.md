@@ -1,7 +1,7 @@
 # CompMetodosComputacionales
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegour1/CompMetodosComputacionales/main)
 
-Material del curso Complementaria de Métodos Computacionales 1 de Uniandes 2022 20
+Material del curso Complementaria de Métodos Computacionales 1 de Uniandes 2023 10
 
 > Nota: el material aquí publicado es basado del [proyecto académico de enseñanza de Física Computacional [ComputoCienciasUniandes]](http://computocienciasuniandes.github.io/) liderado por el Profesor Jaime Ernesto Forero
 
